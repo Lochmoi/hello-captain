@@ -12,5 +12,5 @@ A simple Docker project that uses Alpine Linux to print `Hello, Captain!`.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hello-captain.git
+git clone https://github.com/Lochmoi/hello-captain
 cd hello-captain
