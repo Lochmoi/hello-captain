@@ -1,7 +1,16 @@
-The Dockerfile should be named Dockerfile.
+# Hello, Captain!
 
-The Dockerfile should be in the root directory of the project.
+A simple Docker project that uses Alpine Linux to print `Hello, Captain!`.
 
-The base image should be alpine:latest.
+## Requirements
 
-The Dockerfile should contain a single instruction to print "Hello, Captain!" to the console before exiting.
+- Docker
+- Git
+
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/hello-captain.git
+cd hello-captain
