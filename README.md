@@ -35,5 +35,4 @@ Hello, Captain!
 ```
 
 ## Project URL
-https://github.com/Lochmoi/hello-captain/blob/main/README.md
 https://github.com/Lochmoi/hello-captain
